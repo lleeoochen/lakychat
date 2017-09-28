@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_schedule">Schedule</string>
     <string name="title_chat">Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat_input_hint">Type your message here</string>
+    <string name="chat_submit_text">Send</string>
 </resources>
